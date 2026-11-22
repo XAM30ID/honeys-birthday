@@ -80,7 +80,7 @@ body {
     font-size: 16px;
     line-height: 18px;
     text-align: center;
-    color: #35152f;
+    color: #5c054c;
     border: solid 3px white;
 }
 
@@ -128,7 +128,7 @@ body {
     font-size: 16px;
     line-height: 18px;
     text-align: center;
-    color: #35152f;
+    color: #813407;
     border: solid 3px white;
 }
 
@@ -158,7 +158,7 @@ body {
     font-size: 16px;
     line-height: 18px;
     text-align: center;
-    color: #35152f;
+    color: #813407;
     border: solid 3px white;
 }
 
@@ -202,7 +202,7 @@ body {
 
 .third-section-text {
     margin-top: 1vh;
-    background-color: #F7C0A1;
+    background-color: #A1ECF7;
     border-radius: 20px;
     text-align: center;
     padding: 3vw;
@@ -212,6 +212,17 @@ body {
     font-size: 16px;
     line-height: 18px;
     text-align: center;
-    color: #35152f;
+    color: #036372;
     border: solid 3px white;
+}
+
+.fourth-image-block {
+    margin-top: .5vh;
+    width: auto;
+    padding: 0 5vw;
+    position: relative;
+}
+
+.fourth-image {
+    width: 100%;
 }
