@@ -185,7 +185,7 @@ body {
     background: linear-gradient(
         135deg,
         #64D8D0 0%,
-        #1675A9 100%
+        #0e6fa3 100%
     );
 }
 
@@ -196,7 +196,7 @@ body {
     font-size: 18px;
     line-height: 21px;
     text-align: center;
-    color: #2b706c;
+    color: #1d5a56;
     -webkit-text-stroke: 2px solid #c2fffd;
 }
 
@@ -225,4 +225,20 @@ body {
 
 .fourth-image {
     width: 100%;
+}
+
+.cats-meme {
+    position: absolute;
+    width: 30vw;
+    bottom: 0;
+    right: 0;
+    rotate: 20deg;
+}
+
+.dogs-meme {
+    position: absolute;
+    width: 40vw;
+    top: 0;
+    left: 0;
+    rotate: -20deg;
 }
